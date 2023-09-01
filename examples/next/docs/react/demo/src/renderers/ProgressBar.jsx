@@ -1,7 +1,7 @@
 import React from "react";
-import { addClassWhenNeeded, RendererProps } from "./utils";
+import { addClassWhenNeeded } from "./utils";
 
-export function ProgressBarRenderer(props: RendererProps) {
+export function ProgressBarRenderer(props) {
   addClassWhenNeeded(props);
 
   return (
