@@ -8,15 +8,15 @@ This is a general purpose demo that showcases the most popular features of Hands
 
 ### Installation
 
-Call `yarn` to install all necessary dependencies.
+Call `npm install` to install all necessary dependencies.
 
 ### Development
 
-To start local development server call `yarn dev`. Now you can visit http://localhost:5173 to view this project.
+To start local development server call `npm run dev`. Now you can visit http://localhost:5173 to view this project.
 
 ### Testing
 
-In order to run tests for this project call `yarn dev` which will launch the development server and after the server is running, call `yarn test` to run test specs.
+In order to run tests for this project call `npm run dev` which will launch the development server and after the server is running, call `npm run test` to run test specs.
 
 ### Forking
 
